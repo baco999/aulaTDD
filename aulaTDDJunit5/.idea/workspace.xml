@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0be52909-4a60-428c-86a2-1430268a53db" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YOk2nQEPiQoIznif7QxaSDMAs3" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="aulaSpring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MockitoTeste.testeInOrder">
+    <configuration name="CadastroPessoaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aulaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulaSpring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aulaSpring" />
+      <option name="MAIN_CLASS_NAME" value="aulaSpring.CadastroPessoaTeste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadastroPessoaTeste.naoDeveAdicionarPessoaComNomeVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aulaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulaSpring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aulaSpring" />
+      <option name="MAIN_CLASS_NAME" value="aulaSpring.CadastroPessoaTeste" />
+      <option name="METHOD_NAME" value="naoDeveAdicionarPessoaComNomeVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockitoTeste.primeiroTesteMockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aulaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulaSpring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aulaSpring" />
+      <option name="MAIN_CLASS_NAME" value="aulaSpring.MockitoTeste" />
+      <option name="METHOD_NAME" value="primeiroTesteMockito" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockitoTeste.testeInOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aulaSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulaSpring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="aulaSpring" />
+      <option name="MAIN_CLASS_NAME" value="aulaSpring.MockitoTeste" />
+      <option name="METHOD_NAME" value="testeInOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MockitoTeste.testeInOrder" />
+        <item itemvalue="JUnit.MockitoTeste.primeiroTesteMockito" />
+        <item itemvalue="JUnit.CadastroPessoaTeste" />
+        <item itemvalue="JUnit.CadastroPessoaTeste.naoDeveAdicionarPessoaComNomeVazio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be52909-4a60-428c-86a2-1430268a53db" name="Default Changelist" comment="" />
+      <created>1582820823759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582820823759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aulaSpring$CadastroPessoaTeste.ic" NAME="CadastroPessoaTeste Coverage Results" MODIFIED="1582824369919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>aulaSpring.*</FILTER>
+    </SUITE>
+  </component>
+</project>
